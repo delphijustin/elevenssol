@@ -1,5 +1,6 @@
 # elevenssol
 Elevens solitaire written in Delphi
+![ScreenShot](elevenssol-ss.gif)
 
 Rules https://gamerules.com/rules/elevens/
 
